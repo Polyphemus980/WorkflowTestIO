@@ -7,7 +7,7 @@ public static class Calculator
         if (input.Length == 0)
             return 0;
 
-        var splitInput = input.Split(',');
+        var splitInput = input.Split([",",Environment.NewLine], StringSplitOptions.None);
         return splitInput.Select(singleInput =>
         {
             int.TryParse(singleInput ,out int parsedInput);
