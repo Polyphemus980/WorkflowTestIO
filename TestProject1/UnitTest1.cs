@@ -14,4 +14,14 @@ public class UnitTest1
         
         Assert.Equal(0,result);
     }
+
+    [Fact]
+    public void Test2()
+    {
+        var input = "5";
+
+        var result = Calculator.Calculate(input);
+        
+        Assert.Equal(5,result);
+    }
 }

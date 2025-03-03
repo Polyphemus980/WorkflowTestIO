@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkflowTestIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88a28979cd6aed9ccc68804ba58f69dadf0bf2a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkflowTestIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkflowTestIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
